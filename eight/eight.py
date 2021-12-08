@@ -70,7 +70,7 @@ for line in lines:
             part_one_answer += 1
         elif word == nine:
             line_answer += "9"
-    print(output+":{}".format(line_answer))
+    #print(output+": {}".format(line_answer))
     part_two_answer += int(line_answer)
 
 print("\n")
