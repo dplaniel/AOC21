@@ -1,8 +1,6 @@
 with open("input_eight.txt",'r') as infile:
     lines = infile.readlines()
 
-import pdb
-
 part_one_answer = 0
 part_two_answer = 0
 
